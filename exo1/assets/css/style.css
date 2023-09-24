@@ -1,0 +1,21 @@
+body{
+    padding-top: 60px;
+    background-image: url('../images/bg_head.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mytoast{
+  transition: transform 0.3s ease-out;
+  transform: translate(0, -50px);
+}
+
+.bg-prim{
+    background-color: #0451c4;
+}
+
+
+
+
+
+ 
